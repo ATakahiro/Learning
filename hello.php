@@ -1,3 +1,3 @@
 <?php
-$data = "こんにちは！";
+print("Hello World!!");
 ?>
